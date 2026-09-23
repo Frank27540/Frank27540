@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou Frank Dias👏
 
-<!--
-**Frank27540/Frank27540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End em formação
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em transição de carreira para a área de programação.
+Atualmente estudo HTML, CSS, JavaScript, Git e Github,
+desenvolvendo projetos práticos para aprimorar minhas 
+habilidades.
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- Github
