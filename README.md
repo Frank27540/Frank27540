@@ -15,4 +15,10 @@ habilidades.
 - CSS
 - JavaScript
 - Git
-- Github
+-  Github
+
+## 🚀Projetos
+
+- **Prime Bank** - Interface de banco fictício
+  desenvolvida com HTML, CSS e JavaScript.
+  
