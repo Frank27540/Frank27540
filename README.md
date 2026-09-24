@@ -20,5 +20,13 @@ habilidades.
 ## 🚀Projetos
 
 - **Prime Bank** - Interface de banco fictício
-  desenvolvida com HTML, CSS e JavaScript.
+    desenvolvida com HTML, CSS e JavaScript.
+
+- **Microsoft/Xbox** - Interface inspirada na
+    plataforma Xbox, desenvolvida com HTML e CSS.
+
+- **Calculadora Funcional** -
+    Calculadora desenvolvida com HTML, CSS e JavaScript.
+
+  
   
